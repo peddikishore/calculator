@@ -1,0 +1,40 @@
+.card {
+  background: white;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+  width: 500px;
+  height: 260px;
+  padding: 20px;
+}
+
+.actions {
+  display: flex;
+  justify-content: space-evenly;
+  margin-bottom: 25px;
+}
+
+.form-control {
+    width: 200px !important;
+}
+
+.reset-btn .btn {
+    width: 100px !important;
+    height: 50px !important;
+}
+
+
+@media only screen and (max-width: 425px){
+    .card {
+        width: 300px !important;
+        height: 225px !important;
+        margin-bottom: 10px !important;
+    }
+
+    .form-control{
+        width: 100px !important;
+    }
+
+    .reset-btn .btn {
+        width: auto !important;
+        height: inherit !important;
+    }
+}

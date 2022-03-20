@@ -1,10 +1,12 @@
-This project is about basic arithmetic actions of a calculator .
+This project is about basic arithmetic operations of a calculator.
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the project directory, you can first run:
 
-First run `npm install` and then followed by 
+### `npm install` 
+
+and then followed by 
 
 ### `npm start`
 

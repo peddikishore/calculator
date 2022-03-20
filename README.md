@@ -1,4 +1,4 @@
-This project is about basic arithmetic operations of a calculator.
+## This project is about basic arithmetic operations of a calculator.
 
 ## Available Scripts
 
